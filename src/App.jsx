@@ -1,13 +1,13 @@
 import './App.css';
 import Entete from './components/Entete';
-import randonnees from './randonnees.json';
 import ListeRandos from './components/ListeRandos';
+import randonnees from './randonnees.json';
 
 const App = () => {
   return (
     <>
-      <Entete />
-      <ListeRandos randonnees={randonnees} />
+      <Entete nbRandonnees={randonnees.length} />
+      <ListeRandos tableauRandonnees={randonnees} />
     </>
   );
 };
