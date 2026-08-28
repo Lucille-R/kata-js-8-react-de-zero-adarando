@@ -1,7 +1,7 @@
 import CarteRando from "./CarteRando";
 
 const ListeRandos = (props) => {
-	const cartes = props.randonnees.map((randonnee) => {
+	const cartes = props.tableauRandonnees.map((randonnee) => {
 		return <CarteRando key={randonnee.id} randonnee={randonnee} />;
 	});
 
