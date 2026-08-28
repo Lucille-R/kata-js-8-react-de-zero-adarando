@@ -1,0 +1,9 @@
+.entete {
+	background-image: url('/images/montagne.jpg');
+	background-size: cover;
+	background-position: center;
+	min-height: 300px;
+	color: #fbe8d5;
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+	font-weight: 700; /* "gras" de la police */
+}

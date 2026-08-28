@@ -1,3 +1,5 @@
+import './Entete.css';
+
 const Entete = (props) => {
 	return (
 		<div className="entete">
