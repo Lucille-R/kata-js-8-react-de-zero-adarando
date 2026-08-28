@@ -68,7 +68,7 @@ App
    ```
 2. Se rendre dans le dossier du projet :
    ```bash
-   cd AdaRando
+   cd kata-js-8-react-de-zero-adarando
    ```
 3. Installer les dépendances :
    ```bash
