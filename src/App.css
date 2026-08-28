@@ -1,0 +1,9 @@
+#root {
+	background-color: #d2bc34;
+}
+
+.liste-rando {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
