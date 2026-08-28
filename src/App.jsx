@@ -1,8 +1,11 @@
 import './App.css';
+import Entete from './components/Entete.jsx';
 
 const App = () => {
   return (
-    <div></div>
+    <>
+      <Entete />
+    </>
   );
 };
 
