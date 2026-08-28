@@ -18,8 +18,11 @@ AdaRando est une page React qui affiche 12 randonnées à partir d'un fichier de
 - [x] Composant `CarteRando` (nom, difficulté, durée, dénivelé d'une randonnée)
 - [x] Composant `ListeRandos` (affiche une `CarteRando` par randonnée)
 - [x] Affichage des 12 randonnées
-- [ ] Mention "Balisée" affichée uniquement si la randonnée est balisée
-- [ ] Composant `EtiquetteDifficulte` (affiche la difficulté)
+- [x] Mention "Balisée" affichée uniquement si la randonnée est balisée
+- [x] Composant `EtiquetteDifficulte` (affiche la difficulté)  
+- [ ] BONUS : Compteur « 12 randonnées » dans l'en-tête
+- [ ] BONUS : Un style différent selon la difficulté
+- [ ] BONUS : Un useState avec des boutons pour filtrer par difficulté
 
 ## 🛠️ Technologies utilisées
 
